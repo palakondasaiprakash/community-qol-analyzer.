@@ -1,0 +1,4 @@
+# Core app: Python standard library only.
+# Optional:
+matplotlib>=3.5   # score charts (menu option 8)
+pytest>=7.0       # run tests with pytest
